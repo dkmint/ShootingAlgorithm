@@ -2,7 +2,8 @@
 
 int main() 
 {
+    char string = "Durbek";
     printf("Hello, World!\n");
-    printf("It's me again.");
+    printf("%p\n", string);
     return 0;
 }
